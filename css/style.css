@@ -1,3 +1,14 @@
 h1{
     color: brown;
 }
+.cabecerapiola{
+    text-align: center;
+}
+.parrafo{
+    text-align: center;
+    color: black;
+}
+header{
+    border: black solid 1px;
+    padding: 2vh;
+}
